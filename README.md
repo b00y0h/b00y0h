@@ -8,6 +8,12 @@
 <div>
 <h1 align="center">Hi 👋, I'm Bob</h1>
 <h3 align="center">A passionate Fullstack Developer and Tech Enthusiast</h3>
+
+-  🌍 &nbsp; Based in Virginia
+-  🔭 &nbsp; Currently working on open source projects and client solutions at [EAB Agency](https://github.com/orgs/eab-agency)
+-  💬 &nbsp; Ask me about **React**, **Next.js**, **Node.js**, **TypeScript**, and **CI/CD**
+-  📫 &nbsp; Reach me at **bobby@reversetype.com**
+
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
@@ -49,12 +55,7 @@
   <img src="https://komarev.com/ghpvc/?username=b00y0h&style=flat-square&color=2591F6" alt="b00y0h" />
 </p>
 
--  🌍 &nbsp; Based in Virginia
--  🔭 &nbsp; Currently working on open source projects and client solutions at [EAB Agency](https://github.com/orgs/eab-agency)
--  💬 &nbsp; Ask me about **React**, **Next.js**, **Node.js**, **TypeScript**, and **CI/CD**
--  📫 &nbsp; Reach me at **bobby@reversetype.com**
 
-&nbsp;
 
 <p align="center">
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
