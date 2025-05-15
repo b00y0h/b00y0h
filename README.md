@@ -5,9 +5,11 @@
 <!--
 <p align="center"><img src="your-logo-or-image.png" alt="Logo" /></p>
 -->
-
+<div>
 <h1 align="center">Hi 👋, I'm Bob</h1>
 <h3 align="center">A passionate Fullstack Developer and Tech Enthusiast</h3>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bobbysmith/" target="_blank">
@@ -21,6 +23,23 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" />
   </a>
 </p>
+
+  <!-- GitHub section -->
+
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+   [![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=b00y0h)](https://github.com/anuraghazra/github-readme-stats)
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b00y0h&theme=transparent&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=b00y0h&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light&hide=roff" alt="Gift's language" height="192px"  width="500px"/>
+
+<!-- GitHub section: END -->
+
+## Getting Things Done
+
+### Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=b00y0h&style=flat-square&color=2591F6" alt="b00y0h" />
