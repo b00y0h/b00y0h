@@ -50,6 +50,9 @@
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=b00y0h&style=flat-square&color=2591F6" alt="b00y0h" />
