@@ -53,7 +53,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SCSS         31 mins         █████████▒░░░░░░░░░░░░░░░   37.29 %
+JSON         25 mins         ███████▓░░░░░░░░░░░░░░░░░   30.04 %
+TypeScript   13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
+JavaScript   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+Terraform    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
 ```
 
 <!--END_SECTION:waka-->
