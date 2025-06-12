@@ -63,15 +63,17 @@ npx bobsmith
 <!-- TODO-IST:END -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
+ > 
+> 🏆 468 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -106,17 +108,17 @@ Sunday                   95 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               2 hrs 51 mins       ██████████████████░░░░░░░   72.84 % 
-JavaScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Prisma                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+TypeScript               4 hrs 13 mins       █████████████████░░░░░░░░   69.39 % 
+JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 55 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -132,7 +134,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2025 00:40:08 UTC
+ Last Updated on 12/06/2025 00:39:55 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
