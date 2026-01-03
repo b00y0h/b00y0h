@@ -63,8 +63,6 @@ npx bobsmith
 <!-- TODO-IST:END -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2018%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.11%20million%20lines%20of%20code-blue)
@@ -81,42 +79,6 @@ npx bobsmith
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                8625 commits        ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-🌆 Daytime                17676 commits       █████████████░░░░░░░░░░░░   50.11 % 
-🌃 Evening                6942 commits        █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-🌙 Night                  2034 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   5419 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Tuesday                  5699 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Wednesday                7926 commits        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-Thursday                 8230 commits        ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Friday                   6542 commits        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Saturday                 1075 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Sunday                   386 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -130,7 +92,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 00:49:10 UTC
+ Last Updated on 03/01/2026 00:44:12 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
