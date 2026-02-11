@@ -59,7 +59,7 @@ npx bobsmith
 🏆  **2,881** Karma Points           
 🌸  Completed **0** tasks today           
 ✅  Completed **332** tasks so far           
-⏳  Longest streak is **5** days
+⏳  Longest streak is **2** days
 <!-- TODO-IST:END -->
 
 <!--START_SECTION:waka-->
