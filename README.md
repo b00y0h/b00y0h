@@ -46,7 +46,10 @@ npx bobsmith
 ## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 ![Bob's GitHub stats](profile/stats.svg)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b00y0h&theme=transparent&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=b00y0h&theme=dark&hide_border=true&exclude_days=Sun%2CSat" />
+  <img src="https://streak-stats.demolab.com?user=b00y0h&theme=default&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+</picture>
 <img align="center" src="profile/top-langs.svg" alt="Top Languages" height="192px" width="500px"/>
 
 <!-- GitHub section: END -->
