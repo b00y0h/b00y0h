@@ -45,12 +45,20 @@ npx bobsmith
 
 ## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
-![Bob's GitHub stats](profile/stats.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg" />
+  <img src="profile/stats.svg" alt="Bob's GitHub stats" />
+</picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=b00y0h&theme=dark&hide_border=true&exclude_days=Sun%2CSat" />
   <img src="https://streak-stats.demolab.com?user=b00y0h&theme=default&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </picture>
-<img align="center" src="profile/top-langs.svg" alt="Top Languages" height="192px" width="500px"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg" />
+  <img src="profile/top-langs.svg" alt="Top Languages" height="192px" width="500px" />
+</picture>
 
 <!-- GitHub section: END -->
 
