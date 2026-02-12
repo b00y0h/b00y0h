@@ -45,9 +45,9 @@ npx bobsmith
 
 ## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
-[![Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=b00y0h)](https://github.com/anuraghazra/github-readme-stats)
+![Bob's GitHub stats](profile/stats.svg)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b00y0h&theme=transparent&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=b00y0h&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light&hide=roff" alt="Gift's language" height="192px"  width="500px"/>
+<img align="center" src="profile/top-langs.svg" alt="Top Languages" height="192px" width="500px"/>
 
 <!-- GitHub section: END -->
 
