@@ -45,22 +45,15 @@ npx bobsmith
 
 ## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
-<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
-  <tr>
-    <td style="border: none; padding: 0;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg" />
-        <img src="profile/stats.svg" alt="Bob's GitHub stats" />
-      </picture>
-    </td>
-    <td style="border: none; padding: 0;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg" />
-        <img src="profile/top-langs.svg" alt="Top Languages" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg" />
+  <img align="left" src="profile/stats.svg" alt="Bob's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg" />
+  <img align="left" src="profile/top-langs.svg" alt="Top Languages" />
+</picture>
+<br clear="both" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=b00y0h&theme=dark&hide_border=true&exclude_days=Sun%2CSat" />
