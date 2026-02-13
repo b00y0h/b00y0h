@@ -5,7 +5,6 @@
 <!--
 <p align="center"><img src="your-logo-or-image.png" alt="Logo" /></p>
 -->
-<div>
 <h1 align="center">Hi 👋, I'm Bob</h1>
 <h3 align="center">A passionate Fullstack Developer and Tech Enthusiast</h3>
 
@@ -26,18 +25,15 @@ npx bobsmith
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-  </div>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/bobbysmith/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
+  <a href="https://www.linkedin.com/in/bobbysmith/">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14.13.0/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
   </a>
- <a href="https://x.com/ux_bob" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@14.13.0/icons/x.svg" alt="X" width="30" height="30" align="center" />
-</a>
-
-  <a href="https://github.com/b00y0h" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" />
+  <a href="https://x.com/ux_bob">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14.13.0/icons/x.svg" alt="X" height="30" width="30" />
+  </a>
+  <a href="https://github.com/b00y0h">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14.13.0/icons/github.svg" alt="github" height="30" width="30" />
   </a>
 </p>
 
@@ -77,20 +73,18 @@ npx bobsmith
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 1.4 MB Used in GitHub's Storage 
- > 
+> 📦 1.4 MB Used in GitHub's Storage
+>
 > 🏆 358 Contributions in the Year 2026
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 90 Public Repositories 
- > 
-> 🔑 23 Private Repositories 
- > 
+>
+> 📜 90 Public Repositories
+>
+> 🔑 23 Private Repositories
+>
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -139,5 +133,7 @@ Shell                    4 repos             █░░░░░░░░░░�
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p>
