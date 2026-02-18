@@ -73,13 +73,13 @@ npx bobsmith
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2010%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 409 Contributions in the Year 2026
+> 🏆 444 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -112,17 +112,17 @@ Mac                      6 hrs 10 mins       ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               46 repos            █████████░░░░░░░░░░░░░░░░   36.51 % 
-Swift                    12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-CSS                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+TypeScript               46 repos            █████████░░░░░░░░░░░░░░░░   35.94 % 
+Swift                    12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+CSS                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Ruby                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
 
 
- Last Updated on February 17, 2026 00:47:48 UTC
+ Last Updated on February 18, 2026 00:48:13 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
