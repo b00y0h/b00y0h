@@ -71,7 +71,7 @@ npx bobsmith
 <!-- TODO-IST:END -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue?style=flat)
 
@@ -79,7 +79,7 @@ npx bobsmith
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 495 Contributions in the Year 2026
+> 🏆 623 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -92,32 +92,40 @@ npx bobsmith
 ```text
 🕑︎ Time Zone: America/New_York
 
-⏱️ Total Time: 17 mins (AI Coding: 17 mins)
+⏱️ Total Time: 13 hrs 47 mins (Coding: 6 hrs 46 mins, AI Coding: 6 hrs 22 mins, Writing Docs: 37 mins)
 
 💬 Programming Languages: 
-Other                    17 mins             █████████████████████████   100.00 % 
+sh                       6 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.54 % 
+Other                    4 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.01 % 
+Markdown                 1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 🔥 Editors: 
-Claude Code              17 mins             █████████████████████████   100.00 % 
+Claude Code              6 hrs 28 mins       ████████████░░░░░░░░░░░░░   47.02 % 
+Zsh                      6 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.54 % 
+VS Code                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+Mac                      13 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               46 repos            █████████░░░░░░░░░░░░░░░░   34.85 % 
-CSS                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Shell                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Ruby                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+TypeScript               47 repos            █████████░░░░░░░░░░░░░░░░   35.34 % 
+CSS                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Shell                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Ruby                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 
 
 
 
- Last Updated on February 25, 2026 00:49:40 UTC
+ Last Updated on February 26, 2026 00:44:42 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
