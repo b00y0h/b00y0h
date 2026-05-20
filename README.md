@@ -71,7 +71,7 @@ npx bobsmith
 <!-- TODO-IST:END -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-626%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -79,7 +79,7 @@ npx bobsmith
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 4,010 Contributions in the Year 2026
+> 🏆 4,020 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -87,30 +87,6 @@ npx bobsmith
  > 
 > 🔑 27 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-⏱️ Total Time: 30 hrs 3 mins (AI Coding: 28 hrs 9 mins, Coding: 1 hr 46 mins, Writing Docs: 6 mins)
-
-💬 Programming Languages: 
-Markdown                 12 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   41.39 % 
-Other                    8 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-TypeScript               5 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-sh                       2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-JavaScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-
-🔥 Editors: 
-Unknown Editor           22 hrs 33 mins      ███████████████████░░░░░░   75.08 % 
-Claude Code              3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Zsh                      2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-VS Code                  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-
-💻 Operating System: 
-Mac                      30 hrs 3 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -124,7 +100,7 @@ Go                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on May 19, 2026 01:11:46 UTC
+ Last Updated on May 20, 2026 01:13:28 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
