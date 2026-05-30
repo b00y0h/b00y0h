@@ -71,13 +71,15 @@ npx bobsmith
 <!-- TODO-IST:END -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-676%20hrs%2026%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 4,479 Contributions in the Year 2026
+> 🏆 4,498 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -85,20 +87,44 @@ npx bobsmith
  > 
 > 🔑 28 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+⏱️ Total Time: 24 hrs 9 mins (AI Coding: 20 hrs 29 mins, Coding: 3 hrs 29 mins, Writing Docs: 10 mins)
+
+💬 Programming Languages: 
+TypeScript               11 hrs 40 mins      ████████████░░░░░░░░░░░░░   48.35 % 
+Markdown                 3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+sh                       3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Other                    2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+JavaScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+
+🔥 Editors: 
+Claude Code              10 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   41.54 % 
+Unknown Editor           6 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+Zsh                      4 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+VS Code                  3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+
+💻 Operating System: 
+Mac                      24 hrs 9 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               52 repos            ██████████░░░░░░░░░░░░░░░   38.24 % 
-CSS                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Shell                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Ruby                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+TypeScript               52 repos            ██████████░░░░░░░░░░░░░░░   38.52 % 
+CSS                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Shell                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Ruby                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 
 
 
 
- Last Updated on May 29, 2026 01:15:53 UTC
+ Last Updated on May 30, 2026 01:10:05 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
