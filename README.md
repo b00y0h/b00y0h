@@ -71,9 +71,9 @@ npx bobsmith
 <!-- TODO-IST:END -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-780%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-790%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -92,22 +92,22 @@ npx bobsmith
 ```text
 🕑︎ Time Zone: America/New_York
 
-⏱️ Total Time: 50 hrs 28 mins (AI Coding: 49 hrs 57 mins, Coding: 29 mins, Writing Docs: 1 min, Writing Tests: 0 secs)
+⏱️ Total Time: 50 hrs 30 mins (AI Coding: 50 hrs, Coding: 27 mins, Writing Docs: 2 mins, Writing Tests: 0 secs)
 
 💬 Programming Languages: 
-TypeScript               31 hrs 9 mins       ███████████████░░░░░░░░░░   61.74 % 
-Markdown                 8 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-JSON                     4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Other                    2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-JavaScript               1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+TypeScript               29 hrs 56 mins      ███████████████░░░░░░░░░░   59.30 % 
+Markdown                 10 hrs 33 mins      █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+JSON                     3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Other                    2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JavaScript               1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 🔥 Editors: 
-Claude Code              44 hrs 37 mins      ██████████████████████░░░   88.41 % 
-Zsh                      4 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-VS Code                  1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Claude Code              45 hrs 28 mins      ███████████████████████░░   90.03 % 
+Zsh                      3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+VS Code                  1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 💻 Operating System: 
-Mac                      50 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      50 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,7 +123,7 @@ Go                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on June 15, 2026 01:25:05 UTC
+ Last Updated on June 16, 2026 01:25:48 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
