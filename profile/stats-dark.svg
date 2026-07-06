@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Bob Smith's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 23, Total Commits  (last year) : 5988, Total PRs: 521, Total Issues: 188, Contributed to (last year): 43</desc>
+        <desc id="descId">Total Stars Earned: 23, Total Commits  (last year) : 5973, Total PRs: 521, Total Issues: 188, Contributed to (last year): 43</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 70.63062830787135;
+        stroke-dashoffset: 70.6306284174831;
       }
     }
   
