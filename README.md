@@ -92,22 +92,22 @@ npx bobsmith
 ```text
 🕑︎ Time Zone: America/New_York
 
-⏱️ Total Time: 25 hrs 14 mins (AI Coding: 24 hrs 33 mins, Coding: 40 mins, Writing Docs: 0 secs)
+⏱️ Total Time: 25 hrs 31 mins (AI Coding: 24 hrs 48 mins, Coding: 41 mins, Writing Docs: 0 secs)
 
 💬 Programming Languages: 
-TypeScript               13 hrs 10 mins      █████████████░░░░░░░░░░░░   52.18 % 
-Markdown                 5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Bash                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+TypeScript               13 hrs 10 mins      █████████████░░░░░░░░░░░░   51.63 % 
+Markdown                 5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+JSON                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Bash                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 38 mins      ███████████████████████░░   93.65 % 
-Zsh                      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Claude Code              23 hrs 53 mins      ███████████████████████░░   93.65 % 
+Zsh                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 💻 Operating System: 
-Mac                      25 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,7 +123,7 @@ Go                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on August 10, 2026 02:24:10 UTC
+ Last Updated on August 11, 2026 02:17:17 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
