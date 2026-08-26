@@ -79,7 +79,7 @@ npx bobsmith
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 4,732 Contributions in the Year 2026
+> 🏆 4,733 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -92,22 +92,23 @@ npx bobsmith
 ```text
 🕑︎ Time Zone: America/New_York
 
-⏱️ Total Time: 22 hrs 27 mins (AI Coding: 22 hrs 22 mins, Coding: 5 mins)
+⏱️ Total Time: 15 hrs 22 mins (AI Coding: 14 hrs 55 mins, Coding: 27 mins)
 
 💬 Programming Languages: 
-TypeScript               7 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   33.51 % 
-Markdown                 5 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-Other                    4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-HTML                     2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-JavaScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Other                    4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   31.23 % 
+HTML                     2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Markdown                 2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+TypeScript               2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+JavaScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 56 mins      ████████████████████████░   97.65 % 
-Zsh                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Claude Code              14 hrs 32 mins      ████████████████████████░   94.54 % 
+Zsh                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      22 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,7 +124,7 @@ Go                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on August 25, 2026 01:43:10 UTC
+ Last Updated on August 26, 2026 01:48:42 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
