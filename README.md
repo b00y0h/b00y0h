@@ -92,22 +92,21 @@ npx bobsmith
 ```text
 🕑︎ Time Zone: America/New_York
 
-⏱️ Total Time: 22 hrs 12 mins (AI Coding: 21 hrs 16 mins, Coding: 55 mins)
+⏱️ Total Time: 15 hrs 16 mins (AI Coding: 14 hrs 53 mins, Coding: 23 mins)
 
 💬 Programming Languages: 
-Other                    8 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.64 % 
-TypeScript               5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-Markdown                 3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-HTML                     2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-sh                       54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Markdown                 4 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
+Other                    3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+HTML                     2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+TypeScript               2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Text                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 2 mins       ████████████████████████░   94.75 % 
-Zsh                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Claude Code              14 hrs 43 mins      ████████████████████████░   96.42 % 
+Zsh                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 💻 Operating System: 
-Mac                      22 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,7 +122,7 @@ Go                       2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on September 05, 2026 04:10:21 UTC
+ Last Updated on September 06, 2026 04:18:17 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
