@@ -63,7 +63,7 @@ npx bobsmith
 ### Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  **2,611** Karma Points           
+🏆  **2,596** Karma Points           
 🌸  Completed **0** tasks today           
 ✅  Completed **339** tasks so far           
 🔥  Current streak: **0 days** - Start one today!           
